@@ -1,0 +1,24 @@
+Core Java Concepts
+
+Basics:
+
+Introduction to Java
+Data Types and 
+Operators
+Control Statements
+Arrays and Strings
+
+Object-Oriented Programming (OOP)
+Arrays and Strings
+Exception Handling
+
+Packages and Access Modifiers
+Java Memory Management
+Multithreading (Basics)
+Java Collections Framework (Basics)
+File I/O
+
+
+
+
+
